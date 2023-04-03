@@ -35,7 +35,7 @@ Before start add bellow line into your hosts file
 127.0.0.1	kafka
 ```
 
-1. Start your MySQL instance with Docker. Go to terminal / command prompt and type:
+1. Start your servers instances with Docker. Open the terminal / command prompt, go to the application folder and type:
 ```shell
 docker-compose up -d
 ```
